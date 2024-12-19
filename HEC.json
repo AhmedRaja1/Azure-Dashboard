@@ -1,0 +1,589 @@
+{
+  "properties": {
+    "lenses": [
+      {
+        "order": 0,
+        "parts": [
+          {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "80b33889-3a9a-4306-999d-4b7aa85fa957",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 0,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "d1870cef-b240-466f-af8e-2ca6461ef752",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 0,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "e0c5a224-a9ec-4a94-a33f-c69a384cc9e0",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 2,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "f6a2e181-b790-4cce-aef3-e785f65b5c9d",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 2,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "dc973b31-f9b0-4593-9de5-74aeb116a4e4",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 2,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "10af8810-b015-480a-80c2-e0b2028cf8b4",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 4,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "7853388f-af72-481e-ac13-6d9812607c3c",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 4,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "2a187a0d-2528-45d8-8298-a33801114f34",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 4,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "2429f4fb-7db3-4741-af40-8522ac246709",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 6,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "b7d6eb99-8763-450d-8ec1-31bf5c2becb5",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 6,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "c8b382a1-ad37-4151-bd51-57a622188694",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 6,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "823aa91e-4758-46b3-920d-4d36dcb1ccfa",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 8,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "0f826a6f-40d7-47af-ae2e-fb30f26b48dd",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 8,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "c9ffd570-fe59-4d83-b546-1d28b4897965",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 8,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "343cac6d-c358-43ff-83a0-efe927960510",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 10,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "c02b61d5-93cc-42cb-9ef9-87ade3440db6",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 10,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "798ec6d8-7743-43ad-a259-4f9ce2ac8a6d",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 10,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "328d603c-5957-473b-b879-a5507d237043",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 12,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "45b96886-9ba3-4e9b-b5c1-e192c1df6efa",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 12,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "b57f7232-f67d-4b8b-a4b8-5ccc1b74a2ea",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 12,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "359cc516-4080-4a41-9b99-1a43e335e503",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 14,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "ef99868e-05ed-44bc-a0ca-58e6fe6298c3",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 14,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "e032caed-245c-4472-8a98-858c4d7399dd",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 14,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "17bbbc65-b2e1-48b0-8f5d-f967ae596b2c",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 16,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "7cd0900f-6c70-45c3-b488-0b7cd765edad",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 16,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "76b84aac-4743-48c2-9ace-f2915b0a658a",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 16,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "a5a562c9-7c36-4821-8b45-0da73b4fb80b",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 18,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "3e1f83b6-5079-48ca-99dc-38d3ac4a085f",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 0,
+              "y": 21,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "2995b0ac-30e9-48ab-8f60-144fca449d3f",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 4,
+              "y": 21,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "c9b01ea1-baef-4bc1-891d-1f1a1541a43e",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          },
+          {
+            "position": {
+              "x": 8,
+              "y": 21,
+              "colSpan": 4,
+              "rowSpan": 2
+            },
+            "metadata": {
+              "inputs": [
+                {
+                  "name": "subscriptionId",
+                  "value": "b08ddfc2-1f26-452f-81bd-0d62ef3575f9",
+                  "isOptional": true
+                }
+              ],
+              "type": "Extension/Microsoft_Azure_Billing/PartType/BillingSubscriptionTile"
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "model": {
+        "timeRange": {
+          "value": {
+            "relative": {
+              "duration": 24,
+              "timeUnit": 1
+            }
+          },
+          "type": "MsPortalFx.Composition.Configuration.ValueTypes.TimeRange"
+        }
+      }
+    }
+  },
+  "name": "HEC HEIs Subscriptions",
+  "type": "Microsoft.Portal/dashboards",
+  "location": "INSERT LOCATION",
+  "tags": {
+    "hidden-title": "HEC HEIs Subscriptions"
+  },
+  "apiVersion": "2022-12-01-preview"
+}
